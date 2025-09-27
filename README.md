@@ -46,5 +46,3 @@ A two-player reaction time game built with Arduino, using LEDs, buttons, and a b
 MIT
 
 ---
-
-Enjoy your game!
