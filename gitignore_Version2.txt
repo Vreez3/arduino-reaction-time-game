@@ -1,0 +1,19 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+
+# Arduino sketch backups
+*~
+
+# Arduino IDE files
+.DS_Store
+.vscode/
+*.swp
+*.bak
+
+# Mac system files
+._*
+
+# Windows system files
+Thumbs.db
